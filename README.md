@@ -18,3 +18,9 @@
 コピーしたい `Nintendo` フォルダをカレントディレクトリにコピーしておく
 
 （`"カレントディレクトリ / Nintendo / Album / #{year} / #{month} / #{date}"` という構造にする。もしかするとSDカードからそのままコピーすると `"カレントディレクトリ / Nintendo / Nintendo / Album / #{year} / #{month} / #{date}"` となるかもしれないのでコピーのフォルダを変えてください）
+
+## 実行
+
+```
+python app.py
+```
